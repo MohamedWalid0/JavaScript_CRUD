@@ -1,0 +1,60 @@
+.Bookmarker{
+    color: gray;
+    border-bottom: 1px solid gray;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+form{
+    background-color: #EEEEEE;
+}
+
+
+#SiteName{
+    margin: auto;
+    width: 80%;
+    border: 1px solid #DDD;
+    max-height: 2em;
+}
+
+#SiteUrl{
+    margin: auto;
+    width: 80%;
+    border: 1px solid #DDD;
+    max-height: 2em;
+}
+#submit:hover{
+    box-shadow: 5px 5px 5px gray;
+
+}
+
+
+.copywrite{
+    border-top: 1px solid gray;
+}
+.copywrite p{
+    color: gray;
+    font-weight: bold;
+}
+
+
+
+.error {
+    background-color: #FFB2B2;
+    width: 80%;
+    height: 41px;
+    border-color: red;
+    border-radius: 5px;
+    border-style: solid;
+}
+.error p {
+    padding-top: 3px;
+    color: #6D0000;
+    font-weight: bold;
+}
+
+
+#addSite{
+    
+}
